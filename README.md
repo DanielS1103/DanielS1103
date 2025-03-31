@@ -28,3 +28,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daniel-alejandro-acosta-avila-8345441b9/) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+   <img src="https://raw.githubusercontent.com/Said-Ait-Driss/Said-Ait-Driss/main/contributions.svg" />
+</div>
