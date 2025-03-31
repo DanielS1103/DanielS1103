@@ -1,6 +1,9 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello+world%2C+I'm+Daniel+Acosta.+;Software+Developer" alt="Typing SVG" />
-</a>
-
+###
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello+world%2C+I'm+Daniel+Acosta.+;Software+Developer" alt="Typing SVG" />
+  </a>
+</p>
 # 💫 About Me:
 💡 Passionate about technology, innovation, and constant learning. I love solving complex problems and staying up to date with the latest industry trends. As a software developer and project leader, I interconnect my technical skills with my interpersonal abilities to achieve excellence in my work.<br>🚀👨‍🔬 Throughout my career, I've proven to be a passionate problem-solver 🧩, always in search of the next big solution 💡. Whether working on on-premise projects 🏠 or navigating the complexities of cloud computing ☁️, I strive to deliver outcomes that not only solve problems but also drive growth 📈 and innovation 💥.<br><br>🔧💻 I'm constantly exploring new technologies and methodologies 🔬 to stay ahead in this ever-evolving field 🌐. My goal is to create solutions that are not just technically sound 🎯, but also intuitive and accessible for those who use them 🌟.<br><br>About me:<br>👩‍💻 Software Architect, Full-Stack Developer and Ui/Ux Designer<br>🌱 I’m currently learning everything<br>⚡ I've been working extensively with Python, Node.js, and Spring Boot, and I enjoy creating innovative tools and fun projects.<br><br>I'm excited about<br>🧩 I’m currently learning C++ for Games and Apps<br>🥰 Making people feel things with code<br>🧐 New ways of seeing<br>🖇 Meaningful connections
 
